@@ -6,7 +6,7 @@
 //  Copyright © 2019 Angela Yu. All rights reserved.
 //
 
-iimport UIKit
+import UIKit
 import Firebase
 
 class ChatViewController: UIViewController {
